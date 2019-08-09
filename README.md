@@ -16,4 +16,4 @@ $ git commit -av
 $ git push origin master
 ```
 
-Con il seguente comando puoi aggiungere il repo al client helm `helm repo add Helm-repo-test https://pciaco.github.io/Helm-repo-test/`
+Ora è possibile aggiungere il repo `helm repo add Helm-repo-test https://pciaco.github.io/Helm-repo-test/`
